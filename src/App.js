@@ -12,7 +12,15 @@ import './index.css'
 // import Example from './tutorial/2-useEffect/3-useEffect-fetch-data.js'
 
 //3_chapter
-import Example from './tutorial/3-conditional-rendering/1-multiple-returns.js'
+// import Example from './tutorial/3-conditional-rendering/1-multiple-returns.js'
+// import Example from './tutorial/3-conditional-rendering/2-short-circuit.js'
+
+//4_chapter
+// import Example from './tutorial/4-forms/1-controlled-inputs.js'
+// import Example from './tutorial/4-forms/2-multiple-inputs.js'
+
+//5_chapter
+import Example from './tutorial/5-useRef/1-useRef-basics.js'
 
 function App() {
   return (
