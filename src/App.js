@@ -20,7 +20,10 @@ import './index.css'
 // import Example from './tutorial/4-forms/2-multiple-inputs.js'
 
 //5_chapter
-import Example from './tutorial/5-useRef/1-useRef-basics.js'
+// import Example from './tutorial/5-useRef/1-useRef-basics.js'
+
+//6_chapter
+import Example from './tutorial/6-useReducer/' //we can use index.js without full way to file
 
 function App() {
   return (
