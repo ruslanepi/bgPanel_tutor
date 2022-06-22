@@ -1,4 +1,4 @@
-import './index.css';
+import './index.css'
 //1_chapter
 // import Example from './tutorial/1-useState/1-error-example'
 // import Example from './tutorial/1-useState/2-useState-basics.js'
@@ -24,14 +24,22 @@ import './index.css';
 
 //6_chapter
 // import Example from './tutorial/6-useReducer/'; //we can use index.js without full way to file
+
 //7_chapter
-import Example from './tutorial/7-prop-drilling/1-prop-drilling.js'; //we can use index.js without full way to file
+// import Example from './tutorial/7-prop-drilling/1-prop-drilling.js';
+
+//8_chapter
+// import Example from './tutorial/8-useContext/1-context-api.js'
+
+//9_chapter
+import Example from './tutorial/9-custom-hooks/1-fetch-example.js'
+
 function App() {
   return (
-    <div className="container">
+    <div className='container'>
       <Example />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
