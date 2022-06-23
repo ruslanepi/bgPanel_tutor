@@ -32,7 +32,10 @@ import './index.css'
 // import Example from './tutorial/8-useContext/1-context-api.js'
 
 //9_chapter
-import Example from './tutorial/9-custom-hooks/1-fetch-example.js'
+// import Example from './tutorial/9-custom-hooks/1-fetch-example.js'
+
+//10_chapter
+import Example from './tutorial/10-prop-types/'
 
 function App() {
   return (
