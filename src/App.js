@@ -35,7 +35,10 @@ import './index.css'
 // import Example from './tutorial/9-custom-hooks/1-fetch-example.js'
 
 //10_chapter
-import Example from './tutorial/10-prop-types/'
+// import Example from './tutorial/10-prop-types/'
+
+//11_chapter
+import Example from './tutorial/11-memo-useMemo-useCallback'
 
 function App() {
   return (
